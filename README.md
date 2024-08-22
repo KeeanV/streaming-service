@@ -1,4 +1,4 @@
-# CPSC304 Streaming Service Database
+# SQL and Oracle Database Design - Streaming Service
 ## Keean Vidyarthi, Suhayl Patel, Weena Wibowo
 
-## SQL and Oracle Database Design
+
